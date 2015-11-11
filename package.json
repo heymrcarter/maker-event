@@ -1,0 +1,19 @@
+{
+  "name": "suggestion-box",
+  "version": "1.0.0",
+  "description": "A Webtask for use with a IFTTT Maker event",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heymrcarter/suggestion-box.git"
+  },
+  "author": "Tom Carter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heymrcarter/suggestion-box/issues"
+  },
+  "homepage": "https://github.com/heymrcarter/suggestion-box#readme"
+}
