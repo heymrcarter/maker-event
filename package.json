@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/heymrcarter/suggestion-box#readme",
   "devDependencies": {
-    "webtaskify": "^0.1.10",
     "wt-cli": "^1.1.2"
   }
 }
