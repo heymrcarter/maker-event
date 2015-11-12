@@ -1,6 +1,6 @@
 #Maker Event
 
-This project uses Webtask.io as an endpoint to ultimately forward the request to (IFTTT's Maker channel)[https://itfff.com/maker].
+This project uses Webtask.io as an endpoint to ultimately forward the request to [IFTTT's Maker channel](https://itfff.com/maker).
 
 ##Usage
 
